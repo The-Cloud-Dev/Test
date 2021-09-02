@@ -4,7 +4,6 @@ import websocket
 import json
 import time
 import logging
-import wsaccel
 import sys
 import json
 import ScratchEncoder
