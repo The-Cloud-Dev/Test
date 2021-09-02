@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+scratch2py/__init__.py
+scratch2py/main.py
+scratch2py.egg-info/PKG-INFO
+scratch2py.egg-info/SOURCES.txt
+scratch2py.egg-info/dependency_links.txt
+scratch2py.egg-info/requires.txt
+scratch2py.egg-info/top_level.txt
