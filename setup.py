@@ -19,5 +19,5 @@ setuptools.setup(
     ],
     python_requires='>=3.6',
     install_requires=["websocket-client",
-                      "wsaccel", "ScratchEncoder", "requests"]
+                     "ScratchEncoder", "requests"]
 )
